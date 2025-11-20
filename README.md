@@ -23,4 +23,5 @@ Documentation & Modeling: ERD diagrams, UML diagrams.
 4. Run python scripts to manage data and generate reports.
 
 Report Example:
+
 ![Generated Report](reports/screenshots/raport.png)
