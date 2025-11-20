@@ -7,9 +7,9 @@ It demonstrates the full cycle of database design, data management, and report g
 The project is intended for learning purposes and showcases practical skills in database modeling, SQL procedures, and Python application development.
 
 ## Technologies:
-Database: MySQL
-Script: Python
-Documentation & Modeling: ERD diagrams, UML diagrams.
+Database: MySQL  
+Script: Python  
+Documentation & Modeling: ERD diagrams, UML diagrams.  
 
 ## Features
 - Relational database design with tables, triggers, and stored procedures
@@ -22,6 +22,6 @@ Documentation & Modeling: ERD diagrams, UML diagrams.
 3. Configure Python scripts with your database credentials.
 4. Run python scripts to manage data and generate reports.
 
-Report Example:
+Report Example:  
 
 ![Generated Report](reports/screenshots/raport.png)
